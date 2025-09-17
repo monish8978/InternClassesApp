@@ -15,4 +15,20 @@ Features include:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/monish8978/InternClassesApp.git
-cd InternClassesApp
+1. cd InternClassesApp
+
+2. Install Dependencies
+
+Make sure you have Node.js (>=18) and npm or yarn installed.
+
+Using npm:
+
+npm install
+
+3. Install Expo CLI (if not installed)
+
+4. Run the Project
+
+npx expo start --host lan -c
+
+
