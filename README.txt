@@ -14,5 +14,5 @@ Features include:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/InternClassesApp.git
+git clone https://github.com/monish8978/InternClassesApp.git
 cd InternClassesApp
